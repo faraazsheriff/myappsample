@@ -1,3 +1,2 @@
 My App 
-
-This is my app. I am testing it
+This is my app and I've created it for testing Git features
